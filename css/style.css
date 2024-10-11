@@ -506,6 +506,7 @@ button.white{
     display: flex;
     width: 40%;
 }
+<<<<<<< HEAD
 /***** About ********/
 .
 
@@ -556,6 +557,12 @@ button.white{
 #contact {
     padding: 40px 20px;
     background-color: #ffffff;
+=======
+/******* contact ****/
+#contact {
+    padding: 40px 20px;
+    background-color: #f2f2f2;
+>>>>>>> origin/main
     text-align: center;
 }
 
@@ -567,13 +574,21 @@ button.white{
 
 #contact p {
     margin-bottom: 30px;
+<<<<<<< HEAD
     color: #777777;
+=======
+    color: #666;
+>>>>>>> origin/main
 }
 
 .contact-form {
     max-width: 600px;
     margin: 0 auto;
+<<<<<<< HEAD
     background: rgb(229, 226, 226);
+=======
+    background: rgb(225, 225, 225);
+>>>>>>> origin/main
     padding: 25px;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -631,7 +646,10 @@ button.white{
     }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 /*******---Footer Section Style---*******/
 
 footer{
@@ -698,4 +716,9 @@ footer .copyright{
 }
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/main
 
