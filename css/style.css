@@ -506,76 +506,7 @@ button.white{
     display: flex;
     width: 40%;
 }
-
-
-/*******---Footer Section Style---*******/
-
-footer{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 40px 0;
-}
-
-footer .col{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-bottom: 20px;
-}
-
-footer .logo{
-    cursor: pointer;
-    margin-bottom: 30px;
-}
-
-footer h4{
-    font-size: 14px;
-    margin-bottom: 20px;
-}
-
-footer p{
-    font-size: 13px;
-    margin-bottom: 8px;
-}
-
-footer a{
-    font-size: 13px;
-    text-decoration: none;
-    color: #222;
-}
-
-footer .follow{
-    margin-top: 20px;
-}
-
-footer .follow i{
-    color: #465b52;
-    margin-left: 4px;
-}
-
-footer .follow i:hover{
-    color: var(--primary-color);
-}
-
-footer .install .row img{
-    border: 1px solid var(--primary-color);
-    border-radius: 6px;
-    cursor: pointer;
-}
-
-footer .install img{
-    margin: 10px 0 15px;
-}
-
-footer .copyright{
-    text-align: center;
-    width: 100%;
-}
-
-/*Contact Page Form*/
-/* Contact Form Styles */
-
+/******* contact ****/
 #contact {
     padding: 40px 20px;
     background-color: #f2f2f2;
@@ -652,5 +583,74 @@ footer .copyright{
     .contact-form {
         padding: 20px;
     }
-}*/
+}
+
+/*******---Footer Section Style---*******/
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 40px 0;
+}
+
+footer .col{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+footer .logo{
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+footer h4{
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+footer p{
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+footer a{
+    font-size: 13px;
+    text-decoration: none;
+    color: #222;
+}
+
+footer .follow{
+    margin-top: 20px;
+}
+
+footer .follow i{
+    color: #465b52;
+    margin-left: 4px;
+}
+
+footer .follow i:hover{
+    color: var(--primary-color);
+}
+
+footer .install .row img{
+    border: 1px solid var(--primary-color);
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+footer .install img{
+    margin: 10px 0 15px;
+}
+
+footer .copyright{
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
 
